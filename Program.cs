@@ -41,7 +41,6 @@
                 n = int.Parse(Console.ReadLine());
             }
         }
-
         static void BaslangicEkrani()
         {
             Console.WriteLine("Lütfen Yapmak İstediğiniz İşlemi Seçiniz :)");
